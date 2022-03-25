@@ -1,0 +1,6 @@
+{
+    "file_name": "wikipedia_dataset.xlsx",
+    "column_dimension": "Date",
+    "row_dimension": "Page",
+    "value_dimension": "Visits"
+}
